@@ -78,7 +78,7 @@ const NavBar = () => {
           onMouseLeave={(e) => (e.currentTarget.style.opacity = 0.8)}
           onClick={() => handleNav("hero", "/")}
         >
-          Vivek Sathloniya
+          Vivek Satloniya
         </div>
 
         <div className="navbar-links">
